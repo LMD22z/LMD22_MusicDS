@@ -1,10 +1,10 @@
-# Music-bot
+# LMD22_MusicDS
 
 A complete code to download for a music bot 🎧
 
 Looking for a code for a music bot ? This fully open source code is made for your project !
 
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/5cGSYV8ZZj).
+If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/AJBbTtbEjX).
 
 *If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
 
@@ -16,7 +16,7 @@ Open the configuration file located in the main folder `config.js`.
 module.exports = {
     app: {
         token: 'XXX',
-        playing: 'by LMD22❤️',
+        playing: 'by LMD22',
         global: true,
         guild: 'xxx',
         ExtraMessages: false,
@@ -91,13 +91,10 @@ Now in your terminal run the following commands assuming you are in the same dir
 
 and Done, your bot should be running!
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
+Realized with ❤️ by [LMD22]
 
 Please do not withdraw the license and keep the credits on this project. 
 
 To have full access to the project and to be able to withdraw the credits a small donation is accepted. 
 
-### 📝 ToDo 
 
-
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
