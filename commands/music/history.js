@@ -24,7 +24,7 @@ const queue = useQueue(inter.guild);
             .setDescription(description)
             .setColor('#2f3136')
             .setTimestamp()
-            .setFooter({ text: 'Music comes first - Made with heart by Zerio ❤️', iconURL: inter.member.avatarURL({ dynamic: true })})
+            .setFooter({ text: 'Music comes first - Made with heart by LMD22 ❤️', iconURL: inter.member.avatarURL({ dynamic: true })})
 
 
         inter.editReply({ embeds: [HistoryEmbed] });
